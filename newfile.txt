@@ -1,1 +1,2 @@
 cat is an animal 
+dog is an animal 
